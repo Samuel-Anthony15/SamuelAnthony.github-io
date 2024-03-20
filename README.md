@@ -17,8 +17,8 @@ Electrical Engineering, B.Eng
 -
 -
 
-#### High School Teacher @ Vineyard College Ijeu-Ode Nigeria
+#### High School Teacher | Administrative Assistant @ Vineyard College Ijeu-Ode Nigeria
 -
 -
 
-#### Administrative Assistant @ Vineyard College Ijebu-Ode Nigeria
+
