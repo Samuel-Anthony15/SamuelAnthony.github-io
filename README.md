@@ -1,9 +1,9 @@
 # Data Analyst
 
-### Education
+## Education
 Electrical Engineering, B.Eng
 
-### Work Experience 
+## Work Experience 
 Project Manager @ GSR 360 Ltd
 -
 -
