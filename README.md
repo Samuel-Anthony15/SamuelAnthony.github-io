@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Cyclistic Bike Project</b>
-  - [Report Breakdown](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Report Breakdown](https://github.com/Samuel-Anthony15/SamuelAnthony.github-io/blob/main/CASE%20STUDY%20DOCUMENTATION.docx)
   - [Data Vsualization](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Wellness Company Project</b>
