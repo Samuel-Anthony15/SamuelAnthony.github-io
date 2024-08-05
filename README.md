@@ -6,7 +6,7 @@
   - [Report Breakdown](https://github.com/Samuel-Anthony15/SamuelAnthony.github-io/blob/main/CASE%20STUDY%20DOCUMENTATION.docx)
   - [Data Vsualization](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <b>Elevate Customer Satisfaction: Revolutionize Supply Chain with SQL-Driven Inventory Optimization</b>
+- <b>Inventory Optimization Project</b>
   - [Report Breakdown](https://docs.google.com/document/d/19UepjwH3DPiVMchCbZQAvUkKV0-OUAwv/edit?usp=sharing&ouid=110806886587546223443&rtpof=true&sd=true)
   - [Data Vsualization](https://github.com/joshmadakor1/Algorithms-Practice)
 
